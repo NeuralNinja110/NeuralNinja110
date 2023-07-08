@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeuralNinja110
-- 👀 I’m interested in Full stack development and data science
-- 🌱 I’m currently learning undergraduate in CSE AI/ML
+- 👀 I’m interested in Full stack web development, data science and machine learning
+- 🌱 I’m currently pursuing undergraduate in Computer Science Engineering specialised in Artificial Intelligence and Machine Learning. 
 
 
 
