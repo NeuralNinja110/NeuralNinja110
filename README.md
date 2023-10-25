@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abcrahul111@gmail.com**
 
-- ⚡ Currently I am pursuing **Computer Science Engineering with Specialization in Artificial Intelligence and Machine Learning**
+- ⚡ Currently I am pursuing **Bachelors Degree course in Computer Science Engineering with Specialization in Artificial Intelligence and Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
